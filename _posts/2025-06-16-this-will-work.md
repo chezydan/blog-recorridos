@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Post test formats
 ---
 
 # post for test 01 - formats #
