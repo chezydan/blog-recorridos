@@ -7,8 +7,8 @@ title:  test tables
 
 table template
 
-|  E                        | P              |  C              |
-|:--------------------------|:----- |-----   |
-|  batalla de D              | Dionisos     |  Cruz latina   |
+|  E                          | P              |  C              |
+| :-------------------------- | :-----         | -----   |
+|  batalla de D                | Dionisos     |  Cruz latina   |
 |  batalla de D              |             |     |
- concilio        S           |     Martin   |                |
+! concilio        S           |     Martin   |                |
